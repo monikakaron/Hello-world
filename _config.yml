@@ -1,1 +1,3 @@
 baseurl: /Hello-world/
+collections:
+  authors:
