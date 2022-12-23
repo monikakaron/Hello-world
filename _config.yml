@@ -1,3 +1,4 @@
 baseurl: /Hello-world/
 collections:
   authors:
+    output: true
